@@ -1,2 +1,2 @@
 # Codeforces
-This Repository conntains solutions sof codeforces problems in C++.
+This Repository conntains solutions of codeforces problems in C++.
